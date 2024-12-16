@@ -1,0 +1,7 @@
+{
+  "allowed_packages": [
+    "com.example.package1",
+    "com.example.package2",
+    "com.example.package3"
+  ]
+}
