@@ -1,6 +1,6 @@
 {
   "allowed_packages": [
-    "com.example.package1",
+    "com.nutriage.app",
     "com.example.package2",
     "com.example.package3"
   ]
