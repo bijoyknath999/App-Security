@@ -1,7 +1,0 @@
-{
-  "allowed_packages": [
-    "com.nutriage.app",
-    "com.example.package2",
-    "com.example.package3"
-  ]
-}
