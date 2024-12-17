@@ -2,6 +2,6 @@
   "allowed_packages": [
     "com.nutriage.app",
     "com.planetpulse.android.app",
-    "com.example.package3"
+    "com.pethug.android.app"
   ]
 }
